@@ -1,3 +1,3 @@
-# HC-SR04
+## Señales
 
-Sensor ultrasonico de distancia.
+El modulo dispone de señales de disparo y eco.
